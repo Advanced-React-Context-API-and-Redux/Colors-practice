@@ -1,0 +1,21 @@
+{
+    "name": "color_practice",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Advanced-React-Context-API-and-Redux/Colors-practice"
+    },
+    "author": "Sean Naleid",
+    "license": "ISC",
+    "homepage": "https://github.com/Advanced-React-Context-API-and-Redux/Colors-practice",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    }
+}
